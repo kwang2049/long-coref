@@ -24,10 +24,10 @@ setup(
     ],
     python_requires=">=3.8",
     install_requires=[
-        allennlp==2.10.1,
-        allennlp-models==2.10.1,
-        ujson==5.7.0,
-        matplotlib==3.7.4,
-        networkx==3.1
+        "allennlp==2.10.1",
+        "allennlp-models==2.10.1",
+        "ujson==5.7.0",
+        "matplotlib==3.7.4",
+        "networkx==3.1"
     ],
 )
